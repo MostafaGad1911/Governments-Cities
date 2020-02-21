@@ -2,7 +2,7 @@
 
 WebService للمحافظات و المدن المصرية
 
-# Base Url :
+# Base URL :
             Governments ( GET )
                      https://mostafagad9090.000webhostapp.com/EGY/gov.php
             
@@ -70,5 +70,6 @@ WebService للمحافظات و المدن المصرية
                  gov_id = 27 
                  return محافظة سوهاج
                 
+<img src="https://user-images.githubusercontent.com/25991597/75069150-489c1580-54f9-11ea-922b-7461e551dc1a.PNG)" width="700" height="400" />
 
 
