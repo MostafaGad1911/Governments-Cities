@@ -11,7 +11,7 @@ WebService للمحافظات و المدن المصرية
                     
 # Cities Documentaion
       Name : cities.php 
-      Parameters : gov_id (int)
+      Parameters : gov_id (int) , lang (string) -> ( "ar" | "en" )
       Output :  
                  gov_id = 0 
                  return كل المحافظات
@@ -70,6 +70,6 @@ WebService للمحافظات و المدن المصرية
                  gov_id = 27 
                  return محافظة سوهاج
                 
-<img src="https://user-images.githubusercontent.com/25991597/75069150-489c1580-54f9-11ea-922b-7461e551dc1a.PNG" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/25991597/75096264-9589f580-55a6-11ea-8bce-248169530193.PNG" width="700" height="400" />
 
 
