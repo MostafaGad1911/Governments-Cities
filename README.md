@@ -4,8 +4,9 @@ WebService للمحافظات و المدن المصرية
 
 # Base URL :
             Governments ( GET )
-                     https://mostafagad9090.000webhostapp.com/EGY/governments.php
+                    https://mostafagad9090.000webhostapp.com/EGY/governments.php
                    
+                    https://mostafagad9090.000webhostapp.com/EGY/gov.php                   
             Cities (POST)
                     https://mostafagad9090.000webhostapp.com/EGY/cities.php
                     
