@@ -5,7 +5,7 @@ WebService للمحافظات و المدن المصرية
 # Base URL :
             - Header ( lang : ar || en ) > optional data retrieved in Arabic by default
             Governments ( GET )
-                    gad25.xyz/government/governments.php
+                    https://gad25.xyz/government/governments.php
                    
            
                     
